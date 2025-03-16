@@ -5,8 +5,8 @@ Tested only on GNOME 47 and Nobara 41.
 
 ## Features
 
-- Fix existing shortcuts to add the `StartupWMClass`.
-- Create new shortcuts for all games in the `steamapps/compatdata` folder.
+- Fix existing shortcuts to add `StartupWMClass`.
+- Create new shortcuts for all installed games in the SteamLibrary folder.
 
 ## Usage
 
@@ -16,7 +16,7 @@ Tested only on GNOME 47 and Nobara 41.
     cd GnomeSteamShortcutFixer
     ```
 
-2. Make sure `curl` and `jq` are installed on your system
+2. Make sure `curl` and `jq` are installed on your system:  
     Debian/Ubuntu
     ```bash
     sudo apt install curl jq
