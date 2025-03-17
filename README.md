@@ -18,8 +18,8 @@ Utility tested on 2 PCs with GNOME 47 on Nobara 41 and Fedora 41.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/beedywool/GnomeSteamShortcutFixer.git
-    cd GnomeSteamShortcutFixer
+    git clone https://github.com/beedywool/Gnome-Steam-Shortcut-Fixer.git
+    cd Gnome-Steam-Shortcut-Fixer
     ```
 
 2. Make sure `curl` and `jq` are installed on your system.
